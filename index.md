@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Denis S. Boradun
 
-You can use the [editor on GitHub](https://github.com/Boradun/Boradun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Systems engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### About me
+
+ I work in the branch of the Minsk city telephone network of the company Beltelecom. I start work 4 years ago, as a telecommunications engineer. My duties included observation and repair the SDH data network. I transferred to my current position one year ago, and my new duties is maintenance of all equipment in the building of my company. My expirience of programming is:
+
+1. solving tasks in the university
+2. solving kata from site codewars.com
+3. some tasks, that i came up with myself
+4. few books, like:
+  -.NET 4.5 Framework, Troelsen, Andrew,  
+  -CLR via C#, Jeffrey Richter
 ```markdown
-Syntax highlighted code block
+My contacts:
+email: shadowcatcher50@gmail.com
+phone: (44) 573-6335
 
-# Header 1
-## Header 2
-### Header 3
+My GitHub: https://github.com/Boradun
+Codewars: https://www.codewars.com/users/Boradun
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boradun/Boradun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
