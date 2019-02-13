@@ -16,7 +16,7 @@
 -.NET 4.5 Framework, Troelsen, Andrew
   -CLR via C#, Jeffrey Richter
 
-My contacts:
+<p align=center>My contacts:</p>
 email: shadowcatcher50@gmail.com
 phone: (44) 573-6335
 
