@@ -13,9 +13,9 @@
 2. solving kata from site codewars.com
 3. some tasks, that i came up with myself
 4. few books, like:
-  -.NET 4.5 Framework, Troelsen, Andrew,  
+-.NET 4.5 Framework, Troelsen, Andrew
   -CLR via C#, Jeffrey Richter
-```markdown
+
 My contacts:
 email: shadowcatcher50@gmail.com
 phone: (44) 573-6335
