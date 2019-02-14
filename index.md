@@ -18,13 +18,22 @@
 
 My contacts:
 email: shadowcatcher50@gmail.com
+
 phone: (44) 573-6335
 
 My GitHub: https://github.com/Boradun
 
 Codewars: https://www.codewars.com/users/Boradun
 
+Completed Tasks:
 
+https://github.com/Boradun/PadawansTask1
+
+https://github.com/Boradun/PadawansTask2
+
+https://github.com/Boradun/PadawansTask3
+
+https://github.com/Boradun/X-0
 
 
 
